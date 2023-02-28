@@ -1,3 +1,4 @@
+https://darkassassinx.github.io/Coursera-week2/
 Module 2 Coding Assignment
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
